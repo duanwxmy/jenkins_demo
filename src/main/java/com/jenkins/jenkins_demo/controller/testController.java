@@ -8,6 +8,6 @@ public class testController {
 	
 	@GetMapping("/test")
 	public String list() {
-		return "holle jenkins 4";
+		return "holle jenkins 5";
 	}
 }
